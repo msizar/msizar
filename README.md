@@ -1,4 +1,4 @@
-# Hi there 👋 I am Themba, Welcome to My Repo,
+# Hi there 👋 I am Themba
 
 I am a Front-end developer with 2+ experience in the field, I am pasionate about building solutions that simplify the olden ways of doing things.
 

@@ -19,13 +19,11 @@ I am a Front-end developer with 2+ experience in the field, I am pasionate about
 - Netlify
 
 
+More about me: 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning React Native and Tensorflow
-- 👯 I’m looking to collaborate on a cool AI Project
-- 🤔 I’m looking for help with Tensorflow
-- 💬 Ask me about anything
+- 🔭 I’m currently working on the next app to change the shopping and social media game.
+- 🌱 I’m currently learning React Native and Tensorflow.
+- 👯 I’m looking to collaborate on a cool AI Project.
+- 🤔 I’m looking for help with Tensorflow.
+- 💬 Ask me about anything.
 - 📫 Reach me using my email on the left.

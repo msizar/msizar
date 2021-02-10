@@ -1,6 +1,6 @@
 # Hi there 👋 I am Themba
 
-I am a Front-end developer with 2+ experience in the field, I am pasionate about building solutions that simplify the olden ways of doing things.
+I am a Front-end developer with 3+ experience in the field, I am pasionate about building solutions that simplify the olden ways of doing things.
 
 
 

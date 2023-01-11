@@ -1,6 +1,6 @@
 # Hi there 👋 I am Themba
 
-I am a Software developer with 5+ experience in the field and a BSc in Computer Science and Informatics, I am pasionate about building solutions that simplify the olden ways of doing things.
+I am a Software developer with 5+ years experience and a BSc in Computer Science and Informatics, I am pasionate about building solutions that simplify the olden ways of doing things.
 
 
 
@@ -17,12 +17,13 @@ I am a Software developer with 5+ experience in the field and a BSc in Computer 
 - Postgress
 - Msql
 - Netlify
+- Learning how to Go.... Lang
 
 
 More about me: 
 
 - 🔭 I’m currently working on the next app to change the shopping and social media game.
-- 🌱 I’m currently learning React Native and Tensorflow.
+- 🌱 I’m currently learning Go lang and Tensorflow.
 - 👯 I’m looking to collaborate on a cool AI Project.
 - 🤔 I’m looking for help with Tensorflow.
 - 💬 Ask me about anything.

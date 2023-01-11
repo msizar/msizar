@@ -1,6 +1,6 @@
 # Hi there 👋 I am Themba
 
-I am a Front-end developer with 5+ experience in the field, I am pasionate about building solutions that simplify the olden ways of doing things.
+I am a Software developer with 5+ experience in the field and a BSc in Computer Science and Informatics, I am pasionate about building solutions that simplify the olden ways of doing things.
 
 
 

@@ -5,6 +5,7 @@ I am a Software developer with 5+ years experience and a BSc in Computer Science
 
 
 ## Technologies: 
+- GoLang
 - Javascript
 - Typescript
 - ReactJs
@@ -17,7 +18,6 @@ I am a Software developer with 5+ years experience and a BSc in Computer Science
 - Postgress
 - Msql
 - Netlify
-- Learning how to Go.... Lang
 
 
 More about me: 

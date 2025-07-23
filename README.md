@@ -57,6 +57,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
   <img src="https://github-readme-stats.vercel.app/api?username=msizar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Themba's GitHub Stats" />
 </p>
 
+---
 
 ---
 

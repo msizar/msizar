@@ -4,7 +4,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
 
 ---
 
-### ✨ Why Work With Me?
+### ✨ A little more about me?
 
 -   **Problem Solver:** I excel at analyzing complex problems and delivering elegant, efficient, and scalable solutions.
 -   **Product-Focused:** I have a keen eye for detail and a passion for building products that are not only functional but also provide a great user experience.

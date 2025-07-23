@@ -72,7 +72,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 1 -->
-  <div style="align-self: flex-end; max-width: 80%;">
+  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       I'm passionately working on a revolutionary app that blends shopping and social media to create a unique user experience. Stay tuned!
     </div>
@@ -84,7 +84,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 2 -->
-  <div style="align-self: flex-end; max-width: 80%;">
+  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       I'm diving deep into <strong>Go</strong> for its performance and concurrency, and exploring the fascinating world of <strong>TensorFlow</strong> to build intelligent systems.
     </div>
@@ -96,7 +96,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 3 -->
-  <div style="align-self: flex-end; max-width: 80%;">
+  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       Absolutely! I'm always excited to collaborate on innovative AI projects. If you have an idea, let's connect and build something amazing together.
     </div>
@@ -108,7 +108,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 4 -->
-  <div style="align-self: flex-end; max-width: 80%;">
+  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       Yes, I'm currently navigating the complexities of <strong>TensorFlow</strong>. If you have experience or resources to share, I'd be incredibly grateful for your guidance!
     </div>

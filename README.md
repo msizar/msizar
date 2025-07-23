@@ -72,11 +72,12 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 1 -->
-  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
+  <div style="align-self: flex-end; max-width: 80%;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       I'm passionately working on a revolutionary app that blends shopping and social media to create a unique user experience. Stay tuned!
     </div>
   </div>
+  <br/>
   <!-- Question 2 -->
   <div style="align-self: flex-start; max-width: 80%;">
     <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
@@ -84,11 +85,12 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 2 -->
-  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
+  <div style="align-self: flex-end; max-width: 80%;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       I'm diving deep into <strong>Go</strong> for its performance and concurrency, and exploring the fascinating world of <strong>TensorFlow</strong> to build intelligent systems.
     </div>
   </div>
+  <br/>
   <!-- Question 3 -->
   <div style="align-self: flex-start; max-width: 80%;">
     <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
@@ -96,11 +98,12 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 3 -->
-  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
+  <div style="align-self: flex-end; max-width: 80%;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       Absolutely! I'm always excited to collaborate on innovative AI projects. If you have an idea, let's connect and build something amazing together.
     </div>
   </div>
+  <br/>
   <!-- Question 4 -->
   <div style="align-self: flex-start; max-width: 80%;">
     <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
@@ -108,11 +111,12 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
     </div>
   </div>
   <!-- Answer 4 -->
-  <div style="align-self: flex-end; max-width: 80%; margin-bottom: 20px;">
+  <div style="align-self: flex-end; max-width: 80%;">
     <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
       Yes, I'm currently navigating the complexities of <strong>TensorFlow</strong>. If you have experience or resources to share, I'd be incredibly grateful for your guidance!
     </div>
   </div>
+  <br/>
   <!-- Question 5 -->
   <div style="align-self: flex-start; max-width: 80%;">
     <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
@@ -125,6 +129,7 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
       Of course! Feel free to ask me anything, whether it's about tech, projects, or just to say hi. I'm always happy to connect.
     </div>
   </div>
+  <br/>
 </div>
 
 ---

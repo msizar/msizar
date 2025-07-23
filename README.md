@@ -52,26 +52,82 @@ I'm a Software Developer with 5+ years of experience and a BSc in Computer Scien
 
 ### 📈 My GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msizar&layout=compact&theme=dracula" alt="Top Languages" />
+<!-- <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msizar&layout=compact&theme=dracula" alt="Top Languages" />
+</p> -->
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=msizar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Themba's GitHub Stats" />
 </p>
-
 ---
 
 ---
 
-### 🌱 What I'm up to
+### 🌱 A Little Q&A
 
-- 🔭 I’m currently working on a revolutionary app for the shopping and social media space.
-- 🌱 I’m currently learning **Go** and **TensorFlow**.
-- 👯 I’m looking to collaborate on exciting AI projects.
-- 🤔 I’m seeking help and advice on **TensorFlow**.
-- 💬 Ask me about anything! I'm happy to chat.
+<div style="display: flex; flex-direction: column; gap: 15px;">
+  <!-- Question 1 -->
+  <div style="align-self: flex-start; max-width: 80%;">
+    <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
+      <strong>🔭 What are you currently building?</strong>
+    </div>
+  </div>
+  <!-- Answer 1 -->
+  <div style="align-self: flex-end; max-width: 80%;">
+    <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
+      I'm passionately working on a revolutionary app that blends shopping and social media to create a unique user experience. Stay tuned!
+    </div>
+  </div>
+  <!-- Question 2 -->
+  <div style="align-self: flex-start; max-width: 80%;">
+    <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
+      <strong>🌱 What are you learning right now?</strong>
+    </div>
+  </div>
+  <!-- Answer 2 -->
+  <div style="align-self: flex-end; max-width: 80%;">
+    <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
+      I'm diving deep into <strong>Go</strong> for its performance and concurrency, and exploring the fascinating world of <strong>TensorFlow</strong> to build intelligent systems.
+    </div>
+  </div>
+  <!-- Question 3 -->
+  <div style="align-self: flex-start; max-width: 80%;">
+    <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
+      <strong>👯 Are you open to collaboration?</strong>
+    </div>
+  </div>
+  <!-- Answer 3 -->
+  <div style="align-self: flex-end; max-width: 80%;">
+    <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
+      Absolutely! I'm always excited to collaborate on innovative AI projects. If you have an idea, let's connect and build something amazing together.
+    </div>
+  </div>
+  <!-- Question 4 -->
+  <div style="align-self: flex-start; max-width: 80%;">
+    <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
+      <strong>🤔 Is there anything you need help with?</strong>
+    </div>
+  </div>
+  <!-- Answer 4 -->
+  <div style="align-self: flex-end; max-width: 80%;">
+    <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
+      Yes, I'm currently navigating the complexities of <strong>TensorFlow</strong>. If you have experience or resources to share, I'd be incredibly grateful for your guidance!
+    </div>
+  </div>
+  <!-- Question 5 -->
+  <div style="align-self: flex-start; max-width: 80%;">
+    <div style="background-color: #e1e1e1; color: #333; border-radius: 20px 20px 20px 5px; padding: 12px 18px; display: inline-block;">
+      <strong>💬 Can we chat?</strong>
+    </div>
+  </div>
+  <!-- Answer 5 -->
+  <div style="align-self: flex-end; max-width: 80%;">
+    <div style="background-color: #0078D4; color: white; border-radius: 20px 20px 5px 20px; padding: 12px 18px; display: inline-block;">
+      Of course! Feel free to ask me anything, whether it's about tech, projects, or just to say hi. I'm always happy to connect.
+    </div>
+  </div>
+</div>
 
 ---
-
-I'm currently available for freelance work and open to new opportunities. If you have a project in mind or just want to connect, feel free to reach out!
 
 ### 📫 Get in Touch
 
